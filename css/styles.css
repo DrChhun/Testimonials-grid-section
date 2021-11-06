@@ -1,0 +1,174 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+img {
+  border-radius: 50px;
+  border: solid 1px white;
+  height: 35px;
+}
+
+.img-1 {
+  display: flex;
+}
+
+.img-2 {
+  display: flex;
+}
+
+.img-3 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.img-4 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.img-5 {
+  display: flex;
+}
+
+.h4-pf {
+  margin-left: 20px;
+  font-family: sans-serif;
+  color: hsl(0, 0%, 100%);
+}
+
+.p {
+  color: hsl(0, 0%, 100%);
+  opacity: 50%;
+  font-family: sans-serif;
+}
+
+.g2 {
+  color: hsl(0, 0%, 100%);
+  font-family: sans-serif;
+  opacity: 100%;
+}
+
+.g1 {
+  color: hsl(217, 19%, 35%);
+  font-family: sans-serif;
+}
+
+.q1 {
+  color: hsl(0, 0%, 100%);
+  opacity: 75%;
+  font-family: sans-serif;
+}
+
+.q2 {
+  color: hsl(217, 19%, 35%);
+  font-family: sans-serif;
+  opacity: 75%;
+}
+
+.p-pf {
+  position: relative;
+  top: 25px;
+  right: 105px;
+}
+
+.n1 {
+  color: hsl(217, 19%, 35%);
+}
+
+.p0 {
+  color: hsl(217, 19%, 35%);
+  opacity: 50%;
+  font-family: sans-serif;
+}
+
+.h2-0 {
+  margin-top: 25px;
+}
+
+.p-1 {
+  margin-top: 25px;
+  line-height: 1.5;
+}
+
+.p-pf1 {
+  position: relative;
+  top: 25px;
+  right: 65px;
+}
+
+.p-pf2 {
+  position: relative;
+  left: 55px;
+  bottom: 10px;
+}
+
+.p-pf3 {
+  position: relative;
+  left: 55px;
+  bottom: 10px;
+}
+
+.p-pf4 {
+  position: relative;
+  top: 25px;
+  right: 110px;
+}
+
+.p-0 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.container {
+  padding: 150px;
+  background-color: hsl(210, 46%, 95%);
+  height: 1100px;
+}
+
+.card-1 {
+  width: 750px;
+  background-color: hsl(263, 55%, 52%);
+  padding: 50px;
+  border-radius: 15px;
+}
+
+.card-2 {
+  width: 350px;
+  background-color: hsl(217, 19%, 35%);
+  padding: 50px;
+  border-radius: 15px;
+  position: relative;
+  left: 800px;
+  bottom: 385px;
+}
+
+.card-3 {
+  width: 350px;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 15px;
+  padding: 50px;
+  position: relative;
+  left: 1200px;
+  bottom: 775px;
+}
+
+.card-4 {
+  width: 375px;
+  background-color: hsl(0, 0%, 100%);
+  padding: 50px;
+  border-radius: 15px;
+  position: relative;
+  bottom: 1175px;
+}
+
+.card-5 {
+  width: 750px;
+  background-color: hsl(219, 29%, 14%);
+  border-radius: 15px;
+  padding: 50px;
+  position: relative;
+  bottom: 1550px;
+  left: 400px;
+}
